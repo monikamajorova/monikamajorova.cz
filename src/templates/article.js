@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 export default ({ data }) => {
   const article = data.markdownRemark
   return (
-    <Layout>
+    <Layout title={article.frontmatter.title} description={article.excerpt}>
       <div>
         <h1>{article.frontmatter.title}</h1>
         <p>{article.frontmatter.date}</p>
@@ -23,6 +23,7 @@ export const query = graphql`
         title,
         date
       }
+      excerpt
     }
   }
 `
