@@ -1,16 +1,41 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql } from "gatsby"
+import ArticlePreview from "../components/article-preview"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const Blog = () => (
+const Blog = ({ data }) => {
+  console.log(data)
+  return (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="Blog" />
+    {data.allMarkdownRemark.edges.map(({node}) => (
+        <ArticlePreview key={node.id} node={node} />
+    ))}
   </Layout>
-)
+  )
+}
 
 export default Blog
+
+export const query = graphql`
+  query {
+    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            date(formatString: "DD. MM. YYYY")
+          }
+          fields {
+            slug
+          }
+          excerpt
+        }
+      }
+    }
+  }
+`
