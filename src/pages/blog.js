@@ -6,6 +6,7 @@ import Layout from "../components/layout"
 const Blog = () => {
   return (
   <Layout title="Blog">
+    <h1>Mončin vývojářský blog</h1>
     <ArticleList />
   </Layout>
   )
