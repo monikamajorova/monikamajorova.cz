@@ -1,0 +1,22 @@
+.article-preview {
+    background-color: #f6f6f6;
+    border-radius: 5px;
+    padding-top: 2px;
+}
+
+.article-preview:hover {
+    background-color: #eeeeee;
+}
+
+.article-preview h3 {
+    display: inline;
+}
+
+.date {
+    color: grey;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}

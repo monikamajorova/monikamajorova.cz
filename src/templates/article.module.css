@@ -1,0 +1,7 @@
+.article a {
+    color: #333333;
+}
+
+.article a:hover {
+    color: black;
+}

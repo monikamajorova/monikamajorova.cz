@@ -1,12 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import styles from "./article.module.css"
 
 export default ({ data }) => {
   const article = data.markdownRemark
   return (
     <Layout title={article.frontmatter.title} description={article.excerpt}>
-      <div>
+      <div class={styles.article}>
         <h1>{article.frontmatter.title}</h1>
         <p>{article.frontmatter.date}</p>
         <div dangerouslySetInnerHTML={{ __html: article.html }} />
@@ -21,7 +22,7 @@ export const query = graphql`
       html
       frontmatter {
         title,
-        date
+        date(formatString: "DD. MM. YYYY")
       }
       excerpt
     }

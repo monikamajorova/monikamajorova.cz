@@ -6,6 +6,7 @@ import Header from "./header"
 import Footer from "./footer"
 import SEO from "../components/seo"
 import "./layout.css"
+import styles from "./layout.module.css"
 
 const Layout = ({ title, description, children }) => {
   const data = useStaticQuery(graphql`
@@ -22,15 +23,9 @@ const Layout = ({ title, description, children }) => {
   return (
     <>
       {title && <SEO title={title} description={description} />}
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <main>{children}</main>
+      <div className={styles.layout}>
+        <Header siteTitle={data.site.siteMetadata.title} />
+        <main className={styles.main}>{children}</main>
         <Footer author={data.site.siteMetadata.author} />
       </div>
     </>

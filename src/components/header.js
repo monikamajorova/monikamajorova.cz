@@ -7,8 +7,7 @@ const Header = ({ siteTitle }) => (
   <header
     className={styles.header}
   >
-    <Link to="/" className={styles.title}
-    >
+    <Link to="/" className={styles.title}>
       {siteTitle}
     </Link>
     <nav className={styles.nav}>
