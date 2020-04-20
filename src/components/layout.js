@@ -5,7 +5,6 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./footer"
 import SEO from "./seo"
-import Toplist from "./toplist"
 import "./layout.css"
 import styles from "./layout.module.css"
 
@@ -28,7 +27,6 @@ const Layout = ({ title, description, children }) => {
         <Header siteTitle={data.site.siteMetadata.title} />
         <main className={styles.main}>{children}</main>
         <Footer author={data.site.siteMetadata.author} />
-        <Toplist />
       </div>
     </>
   )
