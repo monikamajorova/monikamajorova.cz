@@ -1,7 +1,8 @@
 import React from "react"
-import ArticleList from "../components/article-list"
 
 import Layout from "../components/layout"
+import ArticleList from "../components/article-list"
+
 
 const Blog = () => {
   return (

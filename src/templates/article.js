@@ -7,7 +7,7 @@ export default ({ data }) => {
   const article = data.markdownRemark
   return (
     <Layout title={article.frontmatter.title} description={article.excerpt}>
-      <div class={styles.article}>
+      <div className={styles.article}>
         <h1>{article.frontmatter.title}</h1>
         <p>{article.frontmatter.date}</p>
         <div dangerouslySetInnerHTML={{ __html: article.html }} />
