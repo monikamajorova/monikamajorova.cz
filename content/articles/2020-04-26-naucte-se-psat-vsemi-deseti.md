@@ -1,0 +1,51 @@
+---
+title: "Naučte se psát všemi deseti"
+date: "2020-04-26"
+---
+Tohle je pravděpodobně jedna z nejdůležitějších věcí, kterou se člověk může naučit, pokud chce pracovat efektivně na počítači.
+
+## Pro koho to je?
+
+Pokud pracujete na počítači, ať už programujete či píšete pomocí klávesnice libovolné texty, psaní všemi deseti je pro vás. Pokud na počítači pouze čtete, sledujete videa, posloucháte hudbu nebo hrajete a nepíšete na něm třeba ani v práci, možná to nebude pro vás, až na jednu výjimku: Pokud hrajete on-line multiplayerové hry (třeba MMO) a používáte tam chat. Tam dokáže tato dovednost velmi urychlit reakční dobu a zefektivnit komunikaci. Samozřejmě že hlasový chat to plnohodnotně nenahradí, přeci jen, zatímco mluvíte, můžete klávesnici využívat pro ovládání hry, při psaní do chatu (i kdyby bylo stejně rychlé jako řeč - což může být) hru většinou ovládat nelze. Ale zdaleka ne všichni hráči hlasový chat využívají a to se podle mého názoru jen tak nezmění, takže psaní všemi deseti se hodí i v této oblasti.
+
+Pochopitelně je to spíše pro ty, kteří ještě neumí psát všemi deseti prsty. Ať už píšete jedním, dvěma, čtyřmi nebo i více prsty. I když píšete všemi deseti, ale na klávesnici se díváte, mohlo by se vám naučení se správného prstokladu a psaní bez dívání se na klávesnici hodit.
+
+## Proč?
+
+Pokud něco píšete na počítači, ať už píšete články na blog jako teď já, nebo si zapisujete svoje myšlenky či si děláte na svém notebooku zápisky z přednášek, možná se vám už několikrát stalo, že jste si potřebovali rychle zapsat proud myšlenek, ať už svých nebo někoho jiného, třeba přednášejícího. Mě se to stává poměrně často, že třeba i mezi ne moc důležitou "omáčkou" přichází salvy informací, které ale nemám šanci si zapamatovat, protože je toho moc najednou a pochopit vše hned rozhodně není jednoduché. V tu chvíli bych ocenila způsob, jak si moci ty informace rychle někam přenést, abych je později mohla zpracovat. Ne vždy si můžu třeba přednášku nahrát nebo třeba použít diktafon pro záznam vlastních myšlenek.
+ 
+Počítače jsou již řadu let schopné zpracovávat text neuvěřitelnou rychlostí, podobně mozek je schopný myslet velmi rychle. Slabé místo co se týče rychlosti je ale mezi těmito dvěma světy, tedy v tom, přenést myšlenku do počítače (nebo ji naopak z něj přečíst). Čtení bývá rychlejší, jelikož je to velmi podobné čtení knih, kterému se většinou věnujeme od dětství. Horší je to s psaním, jelikož ručně psanému textu mají počítače často problém porozumět (ale možné to je), zatímco psaní na klávesnici je dovednost, které se většinou učíme až časem, málokdy je to od dětství. Navíc, alespoň podle mých zkušeností, je obecně psaní na klávesnici rychlejší než ruční psaní (perem).
+
+Psaní všemi deseti na počítači je především rychlé a tedy efektivní, jelikož dokážete napsat více textu za stejnou dobu. Možná se vám desítky hodin strávené tréninkem psaní všemi deseti budou zdát jako zbytečně zahozený čas, ale opak je pravdou. Platí to ale jen tehdy, pokud to dotáhnete do konce a nevzdáte to. Efektivita spočívá nejen v tom, že píšete rychleji, ale také v tom, že se na klávesnici nedíváte a můžete tak naplno sledovat předlohu, přednášku anebo samotný psaný text a díky tomu být schopní okamžitě opravovat případné chyby. Přecházení očima mezi klávesnicí a monitorem sice zabere jen zlomek sekundy, ale když takových přechodů uděláte třeba několik stovek denně nebo i více, tak je to pak už celkem dost ušetřeného času. A čas je to nejcennější, co máte.
+
+Mimochodem to také vypadá hezky, velmi profesionálně, když se to člověk naučí opravdu dobře. Já jsem vždy obdivovala lidi, které jsem viděla psát rychle všemi deseti. 🙂
+
+## Jak na to?
+
+Jsou v podstatě dva způsoby, jak se to můžete naučit. V každém případě je potřeba znát základní principy a pak už to můžete buď trénovat svépomocí, nebo postupovat podle nějakého přesně daného postupu. Ať si vyberete jakýkoliv přístup, ze začátku vám možná přijde, že vás psaní všemi deseti brzdí, protože jakmile začnete psát všemi deseti se správným prstokladem a **bez koukání na klávesnici**, tak budete ze začátku psát velmi pomalu a/nebo dělat dost chyb. Tady je právě ten moment, kdy se lidé často vzdají. Já jsem se v tomhle bodě vzdala několikrát. Doporučuji to vydržet a nevzdat se. A pokud "upadnete" a vzdáte to, co nejdříve zkuste "vstát" a pustit se do toho znovu. Pokud potřebujete něco napsat rychle, třeba v práci, klidně se na chvíli vraťte ke starému způsobu psaní, ať byl jakýkoliv, pokud je stále rychlejší. Ale pokud není nutné spěchat, doporučuji praktikovat psaní všemi deseti co nejčastěji i za cenu toho, že vám bude psaní trvat déle. Investovaný čas se vám v budoucnu s velkou pravděpodobností několikanásobně vrátí. 😉 
+
+V první řadě bych vám chtěla doporučit stránku [Jak psát na klávesnici](https://dusan.pc-slany.cz/klavesnice/default.htm) od Yuhůa (Dušan Janovský), je tam popsán postup, který je především pro ty, kteří se chtějí naučit psát svépomocí, svým způsobem (doporučován je tam způsob naučit se co nejrychleji všechny základní klávesy a postupně se pak zdokonalovat, teprve později na klávesnici přestat koukat). Doporučuji si ho přečíst i tehdy, pokud se rozhodnete pro druhý způsob, tedy nechat se vést. Web obsahuje další zajímavé tipy okolo psaní na klávesnici, ne se vším souhlasím, ale většina z těch informací je velmi užitečná a vychází z praktických zkušeností.
+
+Sama jsem se z té stránky snažila před mnoha lety (před více než deseti) psaní všemi deseti naučit, ale nedařilo se mi to, už tenkrát jsem psát všemi deseti chtěla, ale neměla jsem na to tu trpělivost, možná jsem v tom ani tenkrát neviděla ten potenciál a nedovedla se sama vést. Zkusila jsem tenkrát i zkušební verzi programu [ZAV](http://www.zav.cz/), který byl zajímavý, ale časem to pro mě začalo být příliš repetitivní a přestalo mě to bavit ještě před tím, než jsem dodělala zkušební verzi zdarma. Rozhodně ale doporučuji vyzkoušet, nejsem si jistá, jak ta výuka probíhá dnes, já jsem ji zkoušela před více než deseti lety.
+
+Loni jsem ale objevila "výukovou hru" [Psaní hravě](https://www.psanihrave.cz/), prostě jsem se jednoho dne rozhodla, že bych zase mohla zkusit něco s tím svým "datlováním" udělat (psala jsem v té době asi osmi prsty s koukáním na klávesnici, takže to zas takové datlování nebylo, ale stejně jsem se chtěla psaní všemi deseti naučit), tak jsem zadala do vyhledávače něco jako "psaní všemi deseti" a tato stránka mě zaujala. Vyzkoušela jsem si úvodní cvičení zdarma a ještě ten den jsem si zakoupila přístup do celého kurzu. Málokdy se mi stane, že si něco koupím tak rychle od chvíle, kdy to najdu. 😀
+
+Když se chci něco naučit a nemám nějakou opravdu silnou motivaci, nevidím ještě důsledky toho, jak moc mi to v budoucnu pomůže a neznám ten pocit, jaké to je, když to umím, pak potřebuji, aby mě to bavilo. A přesně to mi kurz Psaní hravě přinesl. Učení mě bavilo. Kurz obsahuje různé druhy cvičení, které díky tomu není tak repetitivní, a přitom jde úplně od základů a obtížnost se přizpůsobuje podle toho, jak daleko se dostanete.
+
+Já jsem základní hru dohrála (až do moře příležitostí, porazila jsem tedy "bosse"), ale pár měsíců mi to zabralo, nevím přesně, ale odhadem tak 2 - 3 měsíce s tím, že základní kurz jsem měla tak za měsíc hotový, zbytek času mi zabralo dokončit závěrečné cvičení (je u něj limit na počet možných chyb a zároveň i limit na rychlost a ten se mi dlouho nedařilo překonat). Ke každému cvičení je tam i velmi zajímavý příběh, který se ale bohužel zobrazí jen když do cvičení vstoupíte poprvé, zatím jsem nepřišla na to, jak si ho zobrazit znovu. Příběh je důležitý prvek, který celou výuku činí mnohem zábavnější. 😉
+
+![Psaní hravě - certifikát](/images/psani-hrave-certifikat.png)
+
+Krom této výukové hry jsem našla také počítačové hry zaměřené na trénování psaní všemi deseti: [Nanotale - Typing Chronicles](http://www.nanotalegame.com/) a [Epistory - Typing Chronicles](http://www.epistorygame.com/). Druhá z nich (Epistory) je dokonce v češtině, takže na ní jde krásně trénovat i psaní diakritiky. Obě hry jsou k [dispozici také na Steamu](https://store.steampowered.com/search/?term=typing+chronicles), Epistory tam má demoverzi, kterou si doporučuji zahrát, abyste zjistili, jestli vám hra vyhovuje. Ale doporučuji to udělat až poté, co se alespoň trochu naučíte všechny základní klávesy (např. všechny cvičení v Psaní hravě až po bosse), jelikož obě hry jsou zábavné procvičování, ale ne výuka. 😉
+
+A když se naučíte psát všemi deseti na všech základních klávesách (ze začátku klidně bez diakritiky, ta je sice trochu těžší na naučení se, ale doporučuji se tyto klávesy naučit co nejdříve, jelikož české texty bez diakritiky nevypadají dobře a třeba články na blog tak psát určitě nedoporučuji), tak můžete procvičovat rychlost a přesnost, abyste zvládali psát rychleji a museli opravovat co nejméně chyb. Ze začátku chyby dělat budete, pokud jich bude hodně, doporučuji zpomalit a naučit se psát přesně, a poté přidávat na rychlosti. Dobré na tom je, že jakmile psaní všemi deseti převedete do praxe a budete tak psát i jinde, než jen v rámci výuky, pak se vlastně budete trénovat pokaždé, když tak budete psát. 😉 Na webu Psaní hravě se můžete [otestovat](https://www.psanihrave.cz/test-psani?backlink=tcd7w) v rychlosti psaní, doporučuji pro porovnání před tím, než začnete psát všemi deseti a později poté, až se naučíte tak psát.
+
+## Shrnutí:
+* Psaní všemi deseti přináší značné zefektivnění práce při psaní na počítači a časová investice do jeho naučení se vám vrátí později, pokud ho budete používat.
+* Psaní všemi deseti vypadá pěkně a profesionálně.
+* Hodí se pro každého, kdo píše na počítači, nejsou potřeba žádné velké technické znalosti.
+* Důležité je také naučit se nekoukat na klávesnici.
+* Dá se to naučit svépomocí, třeba podle návodu [Jak psát na klávesnici](https://dusan.pc-slany.cz/klavesnice/default.htm) nebo pomocí nějakého kurzu, třeba [Psaní hravě](https://www.psanihrave.cz/).
+* Později se dá procvičovat jak zábavou formou (třeba ve hře [Epistory - Typing Chronicles](http://www.epistorygame.com/)), tak i psaním čehokoliv na počítači tímto způsobem.
+
+Přeji vám při učení se psát všemi deseti hodně trpělivosti a výdrže, protože věřím, že ji budete potřebovat. Pokud to ale nevzdáte, pak věřte, že se vám to časem vrátí hlavně v podobě ušetřeného času při psaní na počítači. A čím víc píšete, tím víc se vám to vrátí. 😉
