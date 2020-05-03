@@ -40,7 +40,8 @@ Krom této výukové hry jsem našla také počítačové hry zaměřené na tr�
 
 A když se naučíte psát všemi deseti na všech základních klávesách (ze začátku klidně bez diakritiky, ta je sice trochu těžší na naučení se, ale doporučuji se tyto klávesy naučit co nejdříve, jelikož české texty bez diakritiky nevypadají dobře a třeba články na blog tak psát určitě nedoporučuji), tak můžete procvičovat rychlost a přesnost, abyste zvládali psát rychleji a museli opravovat co nejméně chyb. Ze začátku chyby dělat budete, pokud jich bude hodně, doporučuji zpomalit a naučit se psát přesně, a poté přidávat na rychlosti. Dobré na tom je, že jakmile psaní všemi deseti převedete do praxe a budete tak psát i jinde, než jen v rámci výuky, pak se vlastně budete trénovat pokaždé, když tak budete psát. 😉 Na webu Psaní hravě se můžete [otestovat](https://www.psanihrave.cz/test-psani?backlink=tcd7w) v rychlosti psaní, doporučuji pro porovnání před tím, než začnete psát všemi deseti a později poté, až se naučíte tak psát.
 
-## Shrnutí:
+## Shrnutí
+
 * Psaní všemi deseti přináší značné zefektivnění práce při psaní na počítači a časová investice do jeho naučení se vám vrátí později, pokud ho budete používat.
 * Psaní všemi deseti vypadá pěkně a profesionálně.
 * Hodí se pro každého, kdo píše na počítači, nejsou potřeba žádné velké technické znalosti.
