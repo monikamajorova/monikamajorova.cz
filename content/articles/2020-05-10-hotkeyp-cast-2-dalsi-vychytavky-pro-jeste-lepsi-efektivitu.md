@@ -106,4 +106,4 @@ Pro testování, jaké klávesy jsou pomocí makra stisknuty, můžete vykoušet
 
 Teď už umíte téměř vše, co umím s HotkeyP já. Hlavně ale víte, jak si zobrazit nápovědu, takže se toho můžete naučit ještě mnohem více, než umím já. Přesto bych se v příštím článku k HotkeyP ještě jednou vrátila a podělila se s vámi o několik dalších vychytávek a drobných tipů, na které jsem přišla při psaní článku a při používání HotkeyP.
 
-Třetí díl by se tu měl objevit příští týden, nejdéle za 14 dní. 😉
+Další, závěrečný díl článku:  [HotkeyP, část 3: Dodatečné tipy a triky](/blog/2020-05-31-hotkeyp-cast-3-dodatecne-tipy-a-triky).
